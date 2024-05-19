@@ -1,3 +1,256 @@
-z="
-";yNz='c al';oVz='eani';rVz='s)"';RJz='ws-V';EHz='me m';iPz='slee';nVz=' "Cl';QFz='v2" ';aJz='txt ';RUz='_DIS';VBz='US -';PBz='  So';dLz='--po';GPz='net.';cQz='t VM';oz='}';kIz='_POR';qVz='.(50';xIz='l &';TRz='. (a';ETz='edDi';nQz=' VM ';WOz=''\''CF'\''';FFz='gkan';bJz='] &&';SBz=' Asi';VCz='uthe';nLz='how ';VMz='cess';TMz='t In';gNz='t ; ';dPz=' is ';bMz='thin';FVz='tsv)';GRz='" in';WNz='onte';KSz='z vm';tz='p1';cBz='st E';ENz='crip';ODz='p1 ;';dIz=' hai';PPz='rf I';nPz='$(az';YIz='esou';CJz='eckv';NKz=' && ';XVz='d NI';QEz='f yo';jPz='p 72';IIz='1/v2';tSz='P} -';rBz='rea ';jIz='ITES';eEz='8GB ';GEz=' Sta';VFz='v3" ';QPz='P.tx';kRz='p de';PLz=' on ';xMz='Scri';VEz='he h';kLz='IP=$';cFz='gin';FBz='"';sEz='t ha';HOz='Out-';wPz='ostN';QNz=' htt';TJz='-out';NLz='ll p';CEz='win';hMz='e)';fNz='e.ba';BUz='m de';qGz='ite';Tz=':[[:';kGz='R.az';cOz='enco';WTz='Grou';BKz=' "🖥';DFz='pili';aEz='ce"';YTz='D=${';EOz='F'\'', ';tLz=' pub';UPz='rf w';QJz='-n W';bLz='ce-g';iHz='ervi';SVz=' "De';qJz='ip-a';OJz='dres';SGz='oto ';UEz='th t';rOz='ent.';dz=';ba}';XRz='t --';MEz='7GB ';jKz='onno';ZBz='3.  ';uGz='m)';LBz='█ ██';TIz='nfig';XPz='rf s';sIz='sh w';TSz='E} -';wKz='e-op';hUz='}VNE';DIz='cker';WHz='s-li';LKz='at s';iOz='on ;';OGz='ep -';GGz='e-gr';jTz='${IN';IEz='d_DS';bHz='weba';QLz='a VM';UQz='keep';QUz='${OS';wVz='put.';GVz='for ';ZQz=' Kee';EKz='roce';dEz='s_v5';XMz='(10s';vIz='/dev';gGz=' "ha';yRz='RESO';yBz='alah';NEz='- Su';cPz='ur $';HFz='alu ';BPz='o/AZ';ISz='E_ID';WGz=' $RA';bQz='rren';uVz=' "In';pNz=' Out';fCz='m  ;';fJz='ho Y';APz='ster';EDz='Kamu';KGz='tput';KRz='[eE]';KOz='codi';cMz='gs h';wUz='irtu';yKz='ete ';jMz='out ';FJz='ckin';MDz='leep';JNz='gs ;';JSz='=$(a';rCz='5  )';CTz='sk.m';nFz='roup';jLz=' "';dNz='/AZ/';DHz='--na';wGz=' app';LCz='ns';mKz=' --a';wRz=' 2>n';Oz='l=$1';OPz='F2';ABz='█  █';mLz='vm s';ONz='-s -';KKz='size';GNz='cd C';xQz='do';uKz='ic-d';mJz='VM..';gBz='JP -';xz=' " █';bVz='$id';RGz='&& g';LQz='tric';YOz='CF'\'' ';yPz=' sta';bEz=' "2.';kEz='s_v3';kNz='ace ';JDz='papu';eUz='net ';vMz='werS';DDz='   )';LLz=' "Op';YBz='S';qIz='nohu';kFz='it..';tQz='ne"';QOz='conf';bDz='ep2';cRz='-o t';EGz='-res';HJz='evio';uFz=''\'' > ';rz='goto';wz='echo';xFz='(cat';GQz='m | ';Nz='labe';KUz='{INT';HCz=' lal';qQz='crea';FPz='/c i';HVz='id i';nEz=' tha';BNz='s-VM';uSz='e ${';tOz='sapa';yJz='le" ';cUz=' ${P';dJz='h -c';GCz='anya';DMz='erna';rTz='ions';LFz='OK";';oSz='ID=$';Sz=' "/^';LGz=' tab';RHz='ocat';WJz='> IP';oOz='thub';IVz='n ${';MKz='ize)';fGz='ber)';aDz='p2';JPz='able';hz=' -v ';aHz=' az ';sBz='Sout';jQz=' "n:';cIz='s --';lBz='  Au';WSz='etwo';yMz='pt -';MVz='eUna';QSz='OUP}';CPz='/int';QDz='Tida';TPz='s';eQz='and ';XEz='st p';DRz='/n] ';mGz='ebsi';UDz='ihan';OSz='OURC';fKz='on -';SIz='p co';ePz='READ';lUz='ched';EEz='ep3';lLz='(az ';OEz='itab';jDz='nter';eCz=' > v';ZGz='DOM ';VUz='URIT';HTz='DISK';Lz='o';uUz='ist ';QBz='uth ';kCz='steu';DOz='e '\''C';jCz='o we';aFz='in';eIz='vm$N';AFz='u Az';OCz='s in';iKz='sern';VOz='n) -';gRz='oryS';WQz='rent';bSz='kInt';yTz='UBLI';MFz='o "S';ADz='o ko';XBz='st U';bOz='le -';YMz=')"';EMz='me: ';iTz='-id ';iFz='leas';qHz='m$NU';VSz='ry n';VGz='app';kPz='00';EIz='.io/';SDz='a di';cHz='pp c';cSz='erfa';hBz='  Ja';xBz='ih S';TOz='c co';qKz='d Bi';FCz='angk';EFz='h an';FLz='dele';aOz='t-Fi';UFz='v5" ';pVz='ng..';YSz='ofil';LUz='ERFA';SHz='ion ';ORz='brea';RLz=' to ';WCz='asta';GDz='um M';HLz='le';aIz='grou';rRz='e pl';TCz=' ech';vEz='d vi';Iz='func';oRz='az a';lOz='tps:';uPz='defa';QRz='[oO]';yLz=' "Pu';MIz='b:la';QGz='ivm ';jUz='teUn';oTz='ery ';gDz=' 202';PSz='E_GR';GFz='ya l';ez=';" $';wCz='east';YRz='quer';ZTz='D:1:';nGz='tes.';iJz='dy H';pBz='KR -';hCz='3  )';nBz='lia';lFz='."';xVz='.."';XDz='eep ';FNz='ts "';UMz=' Pro';lPz='eckw';CGz='p li';KNz=' cmd';UUz='{SEC';vQz='e tr';jRz='t ts';eTz='z ne';xNz='; (g';AQz='te: ';QCz='  ec';vRz='-yes';eBz='e';tMz='id R';sVz='p 50';CMz=' "Us';jz=')';LJz='m li';iSz='FACE';wTz='id)';RKz='-VM-';eHz='e --';nTz='--qu';yDz='er:l';mDz='o Mi';bCz='US";';CNz='-PLU';qRz='rvic';bNz='/mas';mPz='web=';ARz='-p "';gIz='etti';THz='--sk';JVz='s[@]';eVz=' NIC';PRz='[nN]';mIz='81" ';iEz='ram"';oPz=' web';pDz='indo';aLz='sour';sKz='lah_';lVz='fi';PCz='1  )';bBz='  We';FQz='rep ';vUz=''\''[?v';Vz='k:]]';gOz='onfi';ZCz='  ;;';LVz='( $d';RTz='_ID}';kJz='Runn';mOz='//ra';oQz='then';DPz='t.ba';lIz='T=80';xSz='rage';aQz='p cu';hJz='lrea';hGz='ivm$';LHz='-gro';ZPz='at a';iIz='WEBS';BTz='osDi';UHz='u S1';eJz=' "ec';HIz='i271';nHz=' --n';FHz='yApp';vTz='ess.';Kz=' got';ZJz=' IP.';YVz='C wi';xLz='v)';TGz='chec';NCz=' $an';oLz='-d -';KBz=' ██ ';pEz=' and';vLz='ps -';XCz='sia ';hVz=': "$';ITz='SECU';gLz='none';YFz='p3 ;';STz=' net';RDz='k ad';NJz='p-ad';CRz='s [y';jGz='UMBE';TDz=' pil';nIz='> we';sMz='and-';IMz='Bism';XUz='OUP_';pOz='user';mBz='stra';ZSz='e.ne';JOz=' -en';UTz='Secu';yGz='ice ';gEz='nd m';mFz='az g';MJz='st-i';KEz=' - 2';HMz='rd: ';ZRz='y "[';oDz='oftW';SCz='HK";';vPz='ultH';XTz='p.id';YNz='om/s';aRz='].na';MTz='az n';YCz='> vm';YUz='ID}';qDz='wsSe';NOz=' ali';IGz='$rs ';CHz='ate ';RMz=' Int';aBz='EU -';NPz='F';xPz='ame,';YLz='ort ';cNz='ter/';eSz='0].i';dTz='P_ID';MGz='le |';PNz='k -O';pHz='haiv';jSz='_ID:';hDz='2 Da';fBz='4.  ';dCz='stus';MRz='|[yY';VIz='ings';AOz='bat)';BRz='Pres';oUz='unat';jHz='cePl';Yz=':]]*';FGz='ourc';sOz='com/';pPz='app ';UBz='2.  ';sFz='[0].';gz='grep';NTz='rk n';DVz='id]'\''';dUz='rk v';kz='eval';PJz='ses ';hEz='ore ';vBz=' -p ';rHz='$NUM';OLz='orts';nMz='mman';cz=';n;p';RCz='ho "';ZVz='th I';sPz='.{ho';wBz='"Pil';MCz='case';mEz='ower';gKz='-adm';KDz='n!!!';az='bel}';qNz='-Fil';mHz='MBER';tUz='ic l';MMz='️  R';bFz=': be';qSz='ESOU';ZLz='--re';gSz='=${I';pRz='ppse';Cz='r ""';hLz=' " D';INz='rfLo';yz='████';XNz='nt.c';IKz='cat ';xHz='tain';AHz='plan';EJz=' Che';bKz='ize ';dMz='appe';RPz='t';fSz='d)';PQz='k';MHz='up $';oEz='n DS';nCz='JP";';lRz='$web';oBz='6.  ';tPz='stNa';fVz=' wit';cGz='NUMB';oHz='ame ';xEz='liza';Ez='t ""';FSz='LUS';iBz='pan ';BQz='stat';GBz=' "██';bUz='c-ip';tNz='ASCI';gHz='n my';BCz='u Ne';OKz='m cr';HQz='cut ';vVz='vali';IDz='ih a';UIz='sett';BGz='ebap';NIz='test';HKz='e=$(';sQz='ew o';HUz='yes';CDz='""  ';YDz='1 ; ';UKz='age ';hIz='ngs ';lKz='hiro';sUz='s=$(';eMz='nd..';JFz='r):"';aCz='2  )';Qz='$(se';ESz='AME=';oMz='d in';pKz='swor';SRz='️  D';IBz='███ ';dDz='ndow';NDz=' 1; ';MOz='SCII';tDz='Serv';LSz=' sho';QKz=' Win';tBz='h';rIz='p ba';CCz='gara';rLz=' --q';SOz='son ';XGz='NDOM';DSz='VM_N';KQz='b/me';oGz='net"';XIz=' --r';iCz='EU";';Pz='cmd=';XSz='rkPr';HRz='put';DLz='lete';qLz='s -n';lTz='ACE_';xRz='ul';RRz='|[nN';uJz='Wind';TLz='und ';YJz='[ -s';OOz='ve.b';wHz='-con';MPz='rf C';tFz='name';xTz='=${P';lJz='ing ';JLz=': rd';Fz=' sus';BEz='t > ';mCz='4  )';ICz='u en';kSz='1: -';TVz='leti';aKz='dard';Az='stty';RNz='ps:/';BHz=' cre';dGz='ER=$';NVz='ttac';ECz='lih ';uQz='whil';SKz='PLUS';sDz='dows';wEz='rtua';QIz='t no';XHz='nux ';HHz='lan$';NHz='rs -';vCz='outh';pFz='t | ';fRz='osit';kMz='10s ';ZOz='| Ou';GOz=''\'' | ';LOz='ng A';PEz='le i';WEz='ighe';POz='at ;';wSz=' sto';ILz=' rdp';ERz=' ent';XLz='en-p';VNz='serc';DBz=' ███';SPz='rf r';kVz=' $id';vz='ep1';OHz='-loc';VKz='--pu';TBz='a';VLz='fic"';MNz='curl';NNz=' -L ';kOz='O ht';uEz='este';JEz='2_v2';qBz='  Ko';EVz=' -o ';KTz='UP_I';pTz='ipCo';yUz='chin';NRz='])';EPz='cmd ';SJz='M-PL';fIz=' --s';KIz='azur';CVz='`].[';TQz='want';pCz='pane';vHz='ment';nRz='nul';uMz='unPo';xOz='ihir';IUz='ic d';wJz='VM-P';KMz='h_20';IRz=' $in';dRz='sv)';BVz='null';tJz=' -n ';JBz='█   ';pQz=' re-';SMz='erne';kKz='yuki';PTz='--id';WDz='; sl';CSz='UP=$';yHz='er-i';pGz=' > s';tTz='icIp';dOz='ding';ATz='ile.';oIz='bapp';nz='exit';jFz='e Wa';GSz='INTE';gUz='-n $';tKz='2024';YKz='sku ';sGz='=$(c';PIz='utpu';RSz='${VM';qz='r';AJz='ckvm';TUz='sg d';WPz='umbe';AMz=' IP:';RBz='East';BJz=': ch';KFz=' ans';iDz='tace';qTz='urat';qCz='ast ';nDz='cros';BSz='_GRO';JGz='--ou';hSz='NTER';SNz='/raw';JJz='M...';cCz='o ea';AEz='ates';qMz='  --';sJz='sses';qPz='list';CLz='k-de';ACz=' sat';jEz=' "3.';vOz='/onn';nNz=''\''$UR';cKz='$siz';rMz='comm';VQz=' cur';EBz='    ';VHz=' --i';xGz='serv';ZEz='rman';BBz='██  ';rPz=' "[]';GUz='} --';sRz='an d';AGz='az w';aPz='bc)';oCz='o ja';WVz='ache';eKz='cati';cLz=' $rs';CUz='p ${';NMz='un C';EQz=' | g';VPz='rf n';vDz='022-';oFz=' lis';gVz='h Id';JQz=' $we';fMz='CF=$';DGz='st -';iGz='ER$N';CQz='e}" ';wMz='hell';dQz='tes ';JUz='id $';vJz='ows-';WBz='  Ea';LRz='[sS]';tRz=' $ap';UNz='hubu';Rz='d -n';IHz='R --';WRz='app=';eGz=' num';yEz=' Sat';uHz='ploy';fQz='outp';uBz='read';wNz='bat ';mRz='s 2>';rGz='loca';wQz='ue';gQz='ut R';XKz='-ip-';FTz='sk.i';LDz='"; s';cJz=' bas';NFz='tand';rNz='e -e';bTz='PUBL';AUz='C_IP';AKz='ask';BIz='-nam';VJz='tsv ';rEz='s bu';fTz='k ni';uNz='I al';DEz='p3';UGz='kweb';KLz='p';tIz='p.sh';MSz='w --';FDz=' Bel';wLz='o ts';jVz='else';ANz='e Wi';ELz='-opt';aGz='> nu';PDz='*   ';eOz=' ASC';gMz=' sit';LTz='D=$(';Gz='p un';Jz='tion';Hz='def';dHz='reat';RIz='ne; ';nUz='=1';lSz='1}';xJz='LUS ';sHz='BER ';mQz='ious';gJz='ou A';mVz='done';YGz='$RAN';HSz='RFAC';GTz='{OS_';iLz='one!';Bz=' int';qOz='cont';qUz='edNi';JMz='illa';iz=''\'':$'\''';XQz=' VM?';lMz='m ru';wFz='rs=$';CBz='  ██';gCz=';';lCz='rope';PUz='isk ';iMz='time';eNz='aliv';QQz=' "  ';RQz=' Do ';hTz='ow -';TTz='work';aVz='d: "';URz='bout';Wz='[[:b';xDz='cent';SFz='ze ;';kQz=' Del';aMz='gic ';SSz='_NAM';vGz=' "az';RFz='> si';cVz='ids ';dVz='d un';FKz='ss..';pJz='ist-';JKz='win)';fUz='g ${';rDz=':Win';UOz='.jso';cTz='IC_I';qFz='jq -';hNz='(gc ';LMz='24"';bIz='p $r';LNz=' /c ';mz='md"';IJz='us V';QHz='n $l';NGz='  gr';YQz=' "y:';CKz='️  C';iQz='ile"';GLz='te -';fDz='rver';mUz='Nics';vFz='rs';hKz='in-u';pUz='tach';mMz='n-co';lQz='prev';YPz='NAME';hPz=' !!!';VTz='rity';HDz='emil';dSz='ces[';bz='/{:a';fFz='ting';uRz='p --';vNz='ive.';PVz='ics ';IQz='-f 1';fEz='ce a';rQz='te n';ZDz='esac';BOz=' -re';DQz=' tsv';eRz='.rep';ZHz='e &&';PGz='q ha';eDz='s Se';hOz='g.js';ASz='URCE';rSz='RCE_';BMz=' $IP';XJz='.txt';RVz=' ))';BFz='ure ';rKz='smil';TKz=' $im';lDz='abc;';Zz='${la';FIz='thuo';IOz='File';gFz=' up.';tGz='at v';Dz=' qui';Mz='{';tCz='o au';JIz='ray-';DCz=' (pi';qEz=' B2m';JCz='ter)';oNz='L'\'' |';YEz='erfo';fPz='Y TO';DNz='S -g';LIz='e-we';KHz='urce';uz=': st';TFz='D2s_';xCz='6  )';yOz='o/ma';aTz=' -1}';eLz='rt '\''';ROz='ig.j';USz='-que';gTz='c sh';sTz='publ';tVz='*)';iUz='T';GKz='imag';vKz='elet';BLz='-dis';xKz=' del';WIz=' set';PKz='eate';UVz='ng u';SLz='inbo';FEz=' "1.';pMz='voke';bRz='me" ';SUz='K_ID';IPz='ut t';JRz='[yY]';KCz=':" a';oJz='vm l';EUz='me $';ULz='traf';sz=' ste';hRz='iteN';iRz='ame"';ySz='Prof';SEz='nt V';lGz='urew';GJz='g Pr';XOz=', '\''$';rJz='ddre';WFz='ze  ';UJz='put ';HEz='ndar';bPz=' "Yo';nKz='dmin';jBz='5.  ';ZKz='Stan';DJz='m';FUz='{VM_';FRz='er: ';xUz='alMa';ZIz='rce-';lEz='- Sl';tHz='--de';GIz='ngha';rUz='csId';YHz=' non';gPz=' USE';OIz=' --o';PFz='DS2_';kBz='AU -';wOz='oyuk';HPz='bat"';oKz='-pas';cDz=' "Wi';dKz=' $lo';ZFz=' beg';Uz='blan';GHz='iceP';sNz='ncod';Xz='lank';SQz='you ';lNz=''\''URL';sLz='uery';MUz='CE_I';nOz='w.gi';REz='u wa';CFz='VM (';BDz='reas';NBz='1.  ';nJz='. &&';VRz=' 3m)';HNz=':\Pe';dBz='urop';aNz='aja/';vSz='AME}';WLz='m op';ZUz='rk p';fOz='II c';kHz='an$N';UCz='o so';NQz='site';LPz='rf v';LEz='CPU/';ZNz='apas';yCz='KR";';hHz='AppS';FMz=' "Pa';pLz='g $r';OVz='hedN';sCz='AU";';MLz='en a';iVz='id';tEz='ve n';NSz='{RES';pz='clea';fHz='-pla';GMz='sswo';MQz='s > ';bGz='mber';HBz='██ █';DKz='In P';KVz='if (';OMz='omma';uOz='saja';TNz='.git';hQz='DP F';mNz='H'\'', ';rFz='r '\''.';fz='0 |';KPz='rm -';wIz='/nul';PMz='nd S';pIz='.sh';NUz='D}';KJz='az v';kUz='atta';wDz='Data';uTz='Addr';uDz='er:2';uLz='licI';AVz='e==`';cEz='d_D2';mTz='ID} ';VVz='natt';HGz='oup ';dFz=' "⌛ ';QTz=' ${I';yQz=' -r ';uCz='lias';AIz='mage';yIz=' che';VDz='!!!"';OTz='ic s';IFz='ente';eFz=' Set';QVz='== 1';OBz='SG -';OUz='az d';TEz='M wi';JHz='reso';QMz='etup';aSz='twor';MBz='██ "';COz='plac';mSz='OS_D';JTz='RITY';fLz='*'\'' -';hFz='.. P';jNz='repl';uIz='  &>';pSz=' ${R';kTz='TERF';sSz='GROU';PHz='atio';WMz='... ';jJz='ave ';kDz='" > ';jOz='-k -';FOz=''\''$CF';nSz='ISK_';WKz='blic';yFz=' rs)';ALz='--os';OQz=': as';CIz='e do';lHz='R$NU';ZMz=' "Ma';WUz='Y_GR';aUz='ubli';iNz='t) -';OFz='ard_';lz=' "$c';DUz='UP} ';DTz='anag';XFz=';;';
-eval "$Az$Bz$Cz$z$Az$Dz$Ez$z$Az$Fz$Gz$Hz$z$Iz$Jz$Kz$Lz$z$Mz$z$Nz$Oz$z$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$z$gz$hz$iz$jz$z$kz$lz$mz$z$nz$z$oz$z$pz$qz$z$rz$sz$tz$z$uz$vz$z$pz$qz$z$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$BBz$yz$BBz$FBz$z$wz$GBz$EBz$HBz$IBz$CBz$DBz$JBz$HBz$JBz$KBz$FBz$z$wz$GBz$EBz$HBz$LBz$CBz$KBz$BBz$HBz$JBz$KBz$FBz$z$wz$GBz$EBz$HBz$ABz$LBz$KBz$KBz$HBz$JBz$KBz$FBz$z$wz$xz$yz$ABz$JBz$yz$KBz$CBz$BBz$yz$MBz$z$wz$EBz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$z$wz$EBz$UBz$VBz$WBz$XBz$YBz$z$wz$EBz$ZBz$aBz$bBz$cBz$dBz$eBz$z$wz$EBz$fBz$gBz$hBz$iBz$RBz$z$wz$EBz$jBz$kBz$lBz$mBz$nBz$z$wz$EBz$oBz$pBz$qBz$rBz$sBz$tBz$z$uBz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$LCz$z$MCz$NCz$OCz$z$PCz$QCz$RCz$SCz$TCz$UCz$VCz$WCz$XCz$YCz$ZCz$z$aCz$QCz$RCz$bCz$TCz$cCz$dCz$eCz$fCz$gCz$z$hCz$QCz$RCz$iCz$TCz$jCz$kCz$lCz$eCz$fCz$gCz$z$mCz$QCz$RCz$nCz$TCz$oCz$pCz$qCz$YCz$ZCz$z$rCz$QCz$RCz$sCz$TCz$tCz$mBz$uCz$vCz$wCz$eCz$fCz$gCz$z$xCz$QCz$RCz$yCz$TCz$ADz$BDz$vCz$eCz$fCz$gCz$z$CDz$DDz$QCz$RCz$EDz$FDz$GDz$HDz$IDz$JDz$KDz$LDz$MDz$NDz$rz$sz$ODz$gCz$z$PDz$DDz$QCz$RCz$QDz$RDz$SDz$TDz$UDz$VDz$WDz$XDz$YDz$rz$sz$ODz$gCz$z$ZDz$z$rz$sz$aDz$z$uz$bDz$z$pz$qz$z$wz$cDz$dDz$eDz$fDz$gDz$hDz$iDz$jDz$kDz$lDz$TCz$mDz$nDz$oDz$pDz$qDz$fDz$rDz$sDz$tDz$uDz$vDz$wDz$xDz$yDz$AEz$BEz$CEz$z$rz$sz$DEz$z$uz$EEz$z$pz$qz$z$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$BBz$yz$BBz$FBz$z$wz$GBz$EBz$HBz$IBz$CBz$DBz$JBz$HBz$JBz$KBz$FBz$z$wz$GBz$EBz$HBz$LBz$CBz$KBz$BBz$HBz$JBz$KBz$FBz$z$wz$GBz$EBz$HBz$ABz$LBz$KBz$KBz$HBz$JBz$KBz$FBz$z$wz$xz$yz$ABz$JBz$yz$KBz$CBz$BBz$yz$MBz$z$wz$FEz$GEz$HEz$IEz$JEz$KEz$LEz$MEz$NEz$OEz$PEz$QEz$REz$SEz$TEz$UEz$VEz$WEz$XEz$YEz$ZEz$aEz$z$wz$bEz$GEz$HEz$cEz$dEz$KEz$LEz$eEz$NEz$OEz$PEz$QEz$REz$SEz$TEz$UEz$VEz$WEz$XEz$YEz$ZEz$fEz$gEz$hEz$iEz$z$wz$jEz$GEz$HEz$cEz$kEz$KEz$LEz$eEz$lEz$mEz$nEz$oEz$JEz$pEz$qEz$rEz$sEz$tEz$uEz$vEz$wEz$xEz$Jz$FBz$z$uBz$vBz$wBz$xBz$yBz$yEz$AFz$BFz$CFz$DFz$EFz$FFz$GFz$HFz$IFz$JFz$KFz$z$MCz$NCz$OCz$z$PCz$QCz$RCz$LFz$TCz$MFz$NFz$OFz$PFz$QFz$RFz$SFz$gCz$z$aCz$QCz$RCz$LFz$TCz$MFz$NFz$OFz$TFz$UFz$RFz$SFz$gCz$z$hCz$QCz$RCz$LFz$TCz$MFz$NFz$OFz$TFz$VFz$RFz$WFz$XFz$z$CDz$DDz$QCz$RCz$EDz$FDz$GDz$HDz$IDz$JDz$KDz$LDz$MDz$NDz$rz$sz$YFz$gCz$z$PDz$DDz$QCz$RCz$QDz$RDz$SDz$TDz$UDz$VDz$WDz$XDz$YDz$rz$sz$YFz$gCz$z$ZDz$z$rz$ZFz$aFz$z$bFz$cFz$z$wz$dFz$eFz$fFz$gFz$hFz$iFz$jFz$kFz$lFz$z$mFz$nFz$oFz$pFz$qFz$rFz$sFz$tFz$uFz$vFz$z$wFz$xFz$yFz$z$AGz$BGz$CGz$DGz$EGz$FGz$GGz$HGz$IGz$JGz$KGz$LGz$MGz$NGz$OGz$PGz$QGz$RGz$SGz$TGz$UGz$VGz$z$wz$WGz$XGz$YGz$ZGz$aGz$bGz$z$cGz$dGz$xFz$eGz$fGz$z$wz$gGz$hGz$cGz$iGz$jGz$kGz$lGz$mGz$nGz$oGz$pGz$qGz$z$rGz$Jz$sGz$tGz$uGz$z$wz$vGz$wGz$xGz$yGz$AHz$BHz$CHz$DHz$EHz$FHz$tDz$GHz$HHz$cGz$iGz$jGz$IHz$JHz$KHz$LHz$MHz$NHz$OHz$PHz$QHz$RHz$SHz$THz$UHz$VHz$WHz$XHz$JGz$KGz$YHz$ZHz$aHz$bHz$cHz$dHz$eHz$JHz$KHz$LHz$MHz$NHz$fHz$gHz$hHz$iHz$jHz$kHz$jGz$lHz$mHz$nHz$oHz$pHz$qHz$mHz$rHz$sHz$tHz$uHz$vHz$wHz$xHz$yHz$AIz$BIz$CIz$DIz$EIz$FIz$GIz$HIz$IIz$JIz$KIz$LIz$MIz$NIz$OIz$PIz$QIz$RIz$AGz$BGz$SIz$TIz$wGz$UIz$VIz$WIz$XIz$YIz$ZIz$aIz$bIz$cIz$tFz$dIz$eIz$jGz$lHz$mHz$fIz$gIz$hIz$iIz$jIz$kIz$lIz$mIz$nIz$oIz$pIz$z$qIz$rIz$sIz$BGz$tIz$uIz$vIz$wIz$xIz$z$rz$yIz$AJz$z$BJz$CJz$DJz$z$wz$dFz$EJz$FJz$GJz$HJz$IJz$JJz$FBz$z$KJz$LJz$MJz$NJz$OJz$PJz$QJz$pDz$RJz$SJz$VBz$TJz$UJz$VJz$WJz$XJz$z$YJz$ZJz$aJz$bJz$cJz$dJz$eJz$fJz$gJz$hJz$iJz$jJz$kJz$lJz$mJz$nJz$aHz$oJz$pJz$qJz$rJz$sJz$tJz$uJz$vJz$wJz$xJz$JGz$KGz$LGz$yJz$RGz$SGz$AKz$z$wz$BKz$CKz$dHz$lJz$DKz$EKz$FKz$lFz$z$rGz$Jz$sGz$tGz$uGz$z$GKz$HKz$IKz$JKz$z$KKz$sGz$LKz$MKz$z$wFz$xFz$yFz$NKz$KJz$OKz$PKz$XIz$YIz$ZIz$aIz$bIz$cIz$tFz$QKz$sDz$RKz$SKz$VHz$AIz$TKz$UKz$VKz$WKz$XKz$YKz$ZKz$aKz$fIz$bKz$cKz$eHz$rGz$Jz$dKz$eKz$fKz$gKz$hKz$iKz$oHz$jKz$kKz$lKz$mKz$nKz$oKz$pKz$qKz$rKz$sKz$tKz$nHz$uKz$vKz$wKz$Jz$xKz$yKz$ALz$BLz$CLz$DLz$ELz$SHz$FLz$GLz$TJz$LGz$HLz$z$rz$ILz$z$JLz$KLz$z$wFz$xFz$yFz$z$wz$LLz$MLz$NLz$OLz$PLz$QLz$RLz$SLz$TLz$ULz$VLz$z$KJz$WLz$XLz$YLz$ZLz$aLz$bLz$nFz$cLz$nHz$oHz$uJz$vJz$wJz$xJz$dLz$eLz$fLz$TJz$UJz$gLz$z$wz$hLz$iLz$jLz$z$kLz$lLz$mLz$nLz$oLz$pLz$qLz$QKz$sDz$RKz$SKz$rLz$sLz$tLz$uLz$vLz$wLz$xLz$z$wz$yLz$WKz$AMz$BMz$FBz$z$wz$CMz$DMz$EMz$jKz$kKz$lKz$FBz$z$wz$FMz$GMz$HMz$IMz$JMz$KMz$LMz$z$wz$BKz$MMz$NMz$OMz$PMz$QMz$RMz$SMz$TMz$UMz$VMz$WMz$XMz$YMz$z$wz$ZMz$aMz$bMz$cMz$dMz$eMz$lFz$z$fMz$xFz$gMz$hMz$z$wFz$xFz$yFz$z$iMz$jMz$kMz$KJz$lMz$mMz$nMz$oMz$pMz$qMz$rMz$sMz$tMz$uMz$vMz$wMz$xMz$yMz$BIz$ANz$dDz$BNz$CNz$DNz$cLz$fIz$ENz$FNz$GNz$HNz$INz$JNz$KNz$LNz$MNz$NNz$ONz$PNz$QNz$RNz$SNz$TNz$UNz$VNz$WNz$XNz$YNz$ZNz$aNz$jKz$kKz$lKz$bNz$cNz$jKz$kKz$lKz$dNz$eNz$fNz$gNz$hNz$eNz$fNz$iNz$jNz$kNz$lNz$mNz$nNz$oNz$pNz$qNz$rNz$sNz$lJz$tNz$uNz$vNz$wNz$xNz$yNz$vNz$AOz$BOz$COz$DOz$EOz$FOz$GOz$HOz$IOz$JOz$KOz$LOz$MOz$NOz$OOz$POz$KNz$LNz$MNz$NNz$ONz$PNz$QNz$RNz$SNz$TNz$UNz$VNz$WNz$XNz$YNz$ZNz$aNz$jKz$kKz$lKz$bNz$cNz$jKz$kKz$lKz$dNz$QOz$ROz$SOz$xNz$TOz$TIz$UOz$VOz$jNz$kNz$WOz$XOz$YOz$ZOz$aOz$bOz$cOz$dOz$eOz$fOz$gOz$hOz$iOz$KNz$LNz$MNz$NNz$jOz$kOz$lOz$mOz$nOz$oOz$pOz$qOz$rOz$sOz$tOz$uOz$vOz$wOz$xOz$yOz$APz$vOz$wOz$xOz$BPz$CPz$SMz$DPz$gNz$EPz$FPz$jDz$GPz$HPz$OIz$IPz$JPz$z$KPz$LPz$DJz$z$KPz$MPz$NPz$z$KPz$MPz$OPz$z$KPz$PPz$QPz$RPz$z$KPz$SPz$TPz$z$KPz$UPz$BGz$tIz$z$KPz$VPz$WPz$qz$z$KPz$XPz$qGz$z$YPz$sGz$ZPz$aPz$z$wz$bPz$cPz$YPz$dPz$ePz$fPz$gPz$hPz$jLz$z$iPz$jPz$kPz$z$BJz$lPz$BGz$KLz$z$wFz$xFz$yFz$z$mPz$nPz$oPz$pPz$qPz$rLz$sLz$rPz$sPz$tPz$EMz$uPz$vPz$wPz$xPz$yPz$AQz$BQz$CQz$JGz$KGz$DQz$EQz$FQz$pHz$GQz$HQz$IQz$jz$z$wz$JQz$KQz$LQz$MQz$NQz$z$rz$yIz$AJz$z$OQz$PQz$z$wz$QQz$EBz$RQz$SQz$TQz$RLz$UQz$VQz$WQz$XQz$FBz$z$wz$YQz$ZQz$aQz$bQz$cQz$yPz$dQz$eQz$fQz$gQz$hQz$iQz$z$wz$jQz$kQz$yKz$lQz$mQz$nQz$oQz$pQz$qQz$rQz$sQz$tQz$z$uQz$vQz$wQz$z$xQz$z$uBz$yQz$ARz$BRz$CRz$DRz$oQz$ERz$FRz$GRz$HRz$z$MCz$IRz$UJz$aFz$z$JRz$KRz$LRz$MRz$NRz$z$rz$ILz$z$ORz$PQz$z$XFz$z$PRz$QRz$RRz$NRz$z$wz$BKz$SRz$vKz$lJz$mJz$TRz$URz$VRz$FBz$z$wFz$xFz$yFz$z$WRz$nPz$wGz$xGz$yGz$AHz$oFz$XRz$YRz$ZRz$aRz$bRz$cRz$dRz$z$mPz$nPz$oPz$pPz$qPz$rLz$sLz$rPz$eRz$fRz$gRz$hRz$iRz$OIz$PIz$jRz$xLz$z$AGz$BGz$kRz$DLz$nHz$oHz$lRz$XIz$YIz$ZIz$aIz$bIz$mRz$nRz$z$oRz$pRz$qRz$rRz$sRz$vKz$eHz$tFz$tRz$uRz$JHz$KHz$LHz$MHz$NHz$vRz$wRz$xRz$z$yRz$ASz$BSz$CSz$vFz$z$DSz$ESz$uJz$vJz$wJz$FSz$z$GSz$HSz$ISz$JSz$KSz$LSz$MSz$JHz$KHz$LHz$MHz$NSz$OSz$PSz$QSz$nHz$oHz$RSz$SSz$TSz$USz$VSz$WSz$XSz$YSz$ZSz$aSz$bSz$cSz$dSz$eSz$fSz$z$GSz$HSz$ISz$gSz$hSz$iSz$jSz$kSz$lSz$z$mSz$nSz$oSz$lLz$mLz$nLz$ZLz$aLz$bLz$nFz$pSz$qSz$rSz$sSz$tSz$BIz$uSz$DSz$vSz$rLz$sLz$wSz$xSz$ySz$ATz$BTz$CTz$DTz$ETz$FTz$fSz$z$mSz$nSz$oSz$GTz$HTz$jSz$kSz$lSz$z$ITz$JTz$BSz$KTz$LTz$MTz$WSz$NTz$OTz$nLz$PTz$QTz$hSz$iSz$RTz$rLz$sLz$STz$TTz$UTz$VTz$WTz$XTz$jz$z$ITz$JTz$BSz$KTz$YTz$ITz$JTz$BSz$KTz$ZTz$aTz$z$bTz$cTz$dTz$JSz$eTz$aSz$fTz$gTz$hTz$iTz$jTz$kTz$lTz$mTz$nTz$oTz$pTz$TIz$qTz$rTz$sFz$sTz$tTz$uTz$vTz$wTz$z$bTz$cTz$dTz$xTz$yTz$AUz$jSz$kSz$lSz$z$KJz$BUz$DLz$XIz$YIz$ZIz$aIz$CUz$yRz$ASz$BSz$DUz$DHz$EUz$FUz$YPz$GUz$HUz$z$MTz$WSz$NTz$IUz$vKz$eHz$JUz$KUz$LUz$MUz$NUz$z$OUz$PUz$FLz$GLz$iTz$QUz$RUz$SUz$GUz$HUz$z$MTz$WSz$NTz$TUz$vKz$eHz$JUz$UUz$VUz$WUz$XUz$YUz$z$MTz$WSz$ZUz$aUz$bUz$xKz$yKz$PTz$cUz$yTz$AUz$RTz$z$MTz$WSz$dUz$eUz$FLz$GLz$fUz$yRz$ASz$BSz$DUz$gUz$FUz$YPz$hUz$iUz$z$FLz$jUz$kUz$lUz$mUz$nUz$z$oUz$pUz$qUz$rUz$sUz$MTz$WSz$NTz$tUz$uUz$nTz$oTz$vUz$wUz$xUz$yUz$AVz$BVz$CVz$DVz$EVz$FVz$z$GVz$HVz$IVz$oUz$pUz$qUz$rUz$JVz$oz$z$xQz$z$KVz$LVz$vKz$MVz$NVz$OVz$PVz$QVz$RVz$z$oQz$z$wz$SVz$TVz$UVz$VVz$WVz$XVz$YVz$ZVz$aVz$bVz$z$MTz$WSz$NTz$IUz$vKz$eHz$cVz$bVz$z$wz$SVz$DLz$dVz$kUz$lUz$eVz$fVz$gVz$hVz$iVz$z$jVz$z$wz$kVz$z$lVz$z$mVz$z$wz$nVz$oVz$pVz$qVz$rVz$z$iPz$sVz$z$rz$ZFz$aFz$z$ORz$PQz$z$XFz$z$tVz$z$wz$uVz$vVz$oMz$wVz$xVz$z$XFz$z$ZDz$z$mVz"
+#!/bin/bash
+stty intr ""
+stty quit ""
+stty susp undef
+
+
+
+
+
+
+
+
+function goto
+{
+    label=$1
+    cmd=$(sed -n "/^:[[:blank:]][[:blank:]]*${label}/{:a;n;p;ba};" $0 | 
+          grep -v ':$')
+    eval "$cmd"
+    exit
+}
+
+clear
+
+
+goto step1
+: step1
+clear
+
+
+echo " ██████  ███    ██ ███    ██  ██████  "
+echo "██    ██ ████   ██ ████   ██ ██    ██ "
+echo "██    ██ ██ ██  ██ ██ ██  ██ ██    ██ "
+echo "██    ██ ██  ██ ██ ██  ██ ██ ██    ██ "
+echo " ██████  ██   ████ ██   ████  ██████ "
+echo    1.  SG -  South East Asia
+echo    2.  US -  East US
+echo    3.  EU -  West Europe 
+echo    4.  JP -  Japan East
+echo    5.  AU -  Australia
+echo    6.  KR -  Korea South
+read -p "Pilih Salah satu Negara (pilih angkanya lalu enter):" ans
+case $ans in
+    1  )  echo "HK"; echo southeastasia > vm  ;;
+    2  )  echo "US"; echo eastus > vm  ;;
+    3  )  echo "EU"; echo westeurope > vm  ;;
+    4  )  echo "JP"; echo japaneast > vm  ;;
+    5  )  echo "AU"; echo australiasoutheast > vm  ;;
+    6  )  echo "KR"; echo koreasouth > vm  ;;
+    ""     )  echo "Kamu Belum Memilih apapun!!!"; sleep 1; goto step1 ;;
+    *      )  echo "Tidak ada di pilihan!!!"; sleep 1 ; goto step1 ;;
+esac
+
+
+goto step2
+: step2
+clear
+
+echo "Windows Server 2022 Datacenter" > abc; echo MicrosoftWindowsServer:WindowsServer:2022-Datacenter:latest > win 
+
+
+goto step3
+: step3
+clear
+
+echo " ██████  ███    ██ ███    ██  ██████  "
+echo "██    ██ ████   ██ ████   ██ ██    ██ "
+echo "██    ██ ██ ██  ██ ██ ██  ██ ██    ██ "
+echo "██    ██ ██  ██ ██ ██  ██ ██ ██    ██ "
+echo " ██████  ██   ████ ██   ████  ██████ "
+echo "1. Standard_DS2_v2 - 2CPU/7GB - Suitable if you want VM with the highest performance"
+echo "2. Standard_D2s_v5 - 2CPU/8GB - Suitable if you want VM with the highest performance and more ram"
+echo "3. Standard_D2s_v3 - 2CPU/8GB - Slower than DS2_v2 and B2ms but have nested virtualization"
+read -p "Pilih Salah Satu Azure VM (pilih angkanya lalu enter):" ans
+case $ans in
+    1  )  echo "OK"; echo "Standard_DS2_v2" > size ;;
+    2  )  echo "OK"; echo "Standard_D2s_v5" > size ;;
+    3  )  echo "OK"; echo "Standard_D2s_v3" > size  ;;
+    ""     )  echo "Kamu Belum Memilih apapun!!!"; sleep 1; goto step3 ;;
+    *      )  echo "Tidak ada di pilihan!!!"; sleep 1 ; goto step3 ;;
+esac
+
+goto begin
+: begin
+echo "⌛  Setting up... Please Wait..."
+
+az group list | jq -r '.[0].name' > rs
+rs=$(cat rs) 
+
+az webapp list --resource-group $rs --output table |  grep -q haivm && goto checkwebapp
+
+echo $RANDOM$RANDOM > number
+NUMBER=$(cat number)
+echo "haivm$NUMBER$NUMBER.azurewebsites.net" > site
+
+location=$(cat vm)
+echo "az appservice plan create --name myAppServicePlan$NUMBER$NUMBER --resource-group $rs --location $location --sku S1 --is-linux --output none && az webapp create --resource-group $rs --plan myAppServicePlan$NUMBER$NUMBER --name haivm$NUMBER$NUMBER --deployment-container-image-name docker.io/thuonghai2711/v2ray-azure-web:latest --output none; az webapp config appsettings set --resource-group $rs --name haivm$NUMBER$NUMBER --settings WEBSITES_PORT=8081" > webapp.sh 
+nohup bash webapp.sh  &>/dev/null &
+
+goto checkvm
+: checkvm
+echo "⌛  Checking Previous VM..."
+az vm list-ip-addresses -n Windows-VM-PLUS --output tsv > IP.txt 
+[ -s IP.txt ] && bash -c "echo You Already Have Running VM... && az vm list-ip-addresses -n Windows-VM-PLUS --output table" && goto ask
+
+echo "🖥️  Creating In Process..."
+location=$(cat vm)
+image=$(cat win)
+size=$(cat size)
+rs=$(cat rs) && az vm create --resource-group $rs --name Windows-VM-PLUS --image $image --public-ip-sku Standard --size $size --location $location --admin-username onnoyukihiro --admin-password Bismillah_2024 --nic-delete-option delete --os-disk-delete-option delete --out table
+
+
+# : test
+# echo "⌛  Wait... (Can take up to 2 minutes)"
+# URL=$(cat site)
+# CF=$(curl -s --connect-timeout 5 --max-time 5 $URL | grep -Eo "(http|https)://[a-zA-Z0-9./?=_%:-]*" | sort -u | sed s/'http[s]\?:\/\/'//)
+# echo -n $CF > CF
+# cat CF | grep trycloudflare.com > CF2
+# if [ -s CF2 ]; then goto rdp; else goto webapp; fi
+
+# : webapp
+# rs=$(cat rs) 
+# NUMBER=$(cat number)
+# #az webapp config appsettings set --resource-group $rs --name haivm$NUMBER$NUMBER --settings WEBSITES_PORT=8081 --output none
+# goto pingcf
+
+# : pingcf
+# URL=$(cat site)
+# CF=$(curl -s --connect-timeout 5 --max-time 5 $URL | grep -Eo "(http|https)://[a-zA-Z0-9./?=_%:-]*" | sort -u | sed s/'http[s]\?:\/\/'//)
+# echo -n $CF > CF
+# cat CF | grep trycloudflare.com > CF2
+# if [ -s CF2 ]; then goto rdp; else echo -en "\r Checking .     $i 🌐 ";sleep 0.1;echo -en "\r Checking ..    $i 🌐 ";sleep 0.1;echo -en "\r Checking ...   $i 🌐 ";sleep 0.1;echo -en "\r Checking ....  $i 🌐 ";sleep 0.1;echo -en "\r Checking ..... $i 🌐 ";sleep 0.1;echo -en "\r Checking     . $i 🌐 ";sleep 0.1;echo -en "\r Checking  .... $i 🌐 ";sleep 0.1;echo -en "\r Checking   ... $i 🌐 ";sleep 0.1;echo -en "\r Checking    .. $i 🌐 ";sleep 0.1;echo -en "\r Checking     . $i 🌐 ";sleep 0.1 && goto pingcf; fi
+
+
+goto rdp
+: rdp
+
+rs=$(cat rs)
+
+echo "Open all ports on a VM to inbound traffic"
+az vm open-port --resource-group $rs --name Windows-VM-PLUS --port '*' --output none
+
+echo " Done! "
+IP=$(az vm show -d -g $rs -n Windows-VM-PLUS --query publicIps -o tsv)
+echo "Public IP: $IP"
+echo "Username: onnoyukihiro"
+echo "Password: Bismillah_2024"
+
+echo "🖥️  Run Command Setup Internet In Process... (10s)"
+
+# goto laststep
+# : laststep
+# URL=$(cat site)
+# CF=$(curl -s --connect-timeout 5 --max-time 5 $URL | grep -Eo "(http|https)://[a-zA-Z0-9./?=_%:-]*" | sort -u | sed s/'http[s]\?:\/\/'//)
+# echo -n $CF > CF
+# cat CF | grep trycloudflare.com > CF2
+# if [ -s CF2 ]; then echo OK; else echo -en "\r Checking .     $i 🌐 ";sleep 0.1;echo -en "\r Checking ..    $i 🌐 ";sleep 0.1;echo -en "\r Checking ...   $i 🌐 ";sleep 0.1;echo -en "\r Checking ....  $i 🌐 ";sleep 0.1;echo -en "\r Checking ..... $i 🌐 ";sleep 0.1;echo -en "\r Checking     . $i 🌐 ";sleep 0.1;echo -en "\r Checking  .... $i 🌐 ";sleep 0.1;echo -en "\r Checking   ... $i 🌐 ";sleep 0.1;echo -en "\r Checking    .. $i 🌐 ";sleep 0.1;echo -en "\r Checking     . $i 🌐 ";sleep 0.1 && goto laststep; fi
+# #seq 1 100 | while read i; do echo -en "\r Running .     $i %";sleep 0.1;echo -en "\r Running ..    $i %";sleep 0.1;echo -en "\r Running ...   $i %";sleep 0.1;echo -en "\r Running ....  $i %";sleep 0.1;echo -en "\r Running ..... $i %";sleep 0.1;echo -en "\r Running     . $i %";sleep 0.1;echo -en "\r Running  .... $i %";sleep 0.1;echo -en "\r Running   ... $i %";sleep 0.1;echo -en "\r Running    .. $i %";sleep 0.1;echo -en "\r Running     . $i %";sleep 0.1; done
+echo "Magic things happend..."
+CF=$(cat site)
+#CF=$(curl -s $URL | grep -Eo "(http|https)://[a-zA-Z0-9./?=_%:-]*" | sort -u | sed s/'http[s]\?:\/\/'//) && echo $CF > CF
+rs=$(cat rs)
+
+
+timeout 10s az vm run-command invoke  --command-id RunPowerShellScript --name Windows-VM-PLUS -g $rs --scripts "cd C:\PerfLogs ; cmd /c curl -L -s -k -O https://raw.githubusercontent.com/sapasaja/onnoyukihiro/master/onnoyukihiro/AZ/alive.bat ; (gc alive.bat) -replace 'URLH', '$URL' | Out-File -encoding ASCII alive.bat ; (gc alive.bat) -replace 'CF', '$CF' | Out-File -encoding ASCII alive.bat ; cmd /c curl -L -s -k -O https://raw.githubusercontent.com/sapasaja/onnoyukihiro/master/onnoyukihiro/AZ/config.json ; (gc config.json) -replace 'CF', '$CF' | Out-File -encoding ASCII config.json ; cmd /c curl -L -k -O https://raw.githubusercontent.com/sapasaja/onnoyukihiro/master/onnoyukihiro/AZ/internet.bat ; cmd /c internet.bat" --out table
+
+
+
+rm -rf vm
+rm -rf CF 
+rm -rf CF2
+rm -rf IP.txt
+rm -rf rs
+rm -rf webapp.sh
+rm -rf number
+rm -rf site
+
+NAME=$(cat abc)
+echo "Your $NAME is READY TO USE !!! "
+
+sleep 7200
+
+: checkwebapp
+rs=$(cat rs)
+web=$(az webapp list --query "[].{hostName: defaultHostName, state: state}" --output tsv | grep haivm | cut -f 1)
+echo $web/metrics > site
+goto checkvm
+
+#&& az webapp config appsettings set --resource-group $rs --name haivm$NUMBER$NUMBER --settings WEBSITES_PORT=8081 --output none
+
+#&& az webapp config appsettings set --resource-group $rs --name haivm$NUMBER$NUMBER --settings WEBSITES_PORT=8081 --output none
+
+: ask
+      echo "       Do you want to keep current VM?"
+      echo "y: Keep current VM states and output RDP File"
+      echo "n: Delete previous VM then re-create new one"
+while true
+do 
+      read -r -p "Press [y/n] then enter: " input
+ 
+      case $input in
+            [yY][eE][sS]|[yY])
+                  goto rdp
+                  break
+                  ;;
+            [nN][oO]|[nN])
+                  echo "🖥️  Deleting VM... (about 3m)"
+                  rs=$(cat rs) 
+                  #az vm delete --ids $(az vm list -g $rs --query "[].id" -o tsv) --yes
+                  app=$(az appservice plan list --query "[].name" -o tsv)
+                  web=$(az webapp list --query "[].repositorySiteName" --output tsv)
+                  az webapp delete --name $web --resource-group $rs 2>nul
+                  az appservice plan delete --name $app --resource-group $rs --yes 2>nul
+                  RESOURCE_GROUP=$rs
+                  VM_NAME=Windows-VM-PLUS
+
+                  INTERFACE_ID=$(az vm show --resource-group ${RESOURCE_GROUP} --name ${VM_NAME} --query networkProfile.networkInterfaces[0].id)
+                  INTERFACE_ID=${INTERFACE_ID:1: -1}
+                  OS_DISK_ID=$(az vm show --resource-group ${RESOURCE_GROUP} --name ${VM_NAME} --query storageProfile.osDisk.managedDisk.id)
+                  OS_DISK_ID=${OS_DISK_ID:1: -1}
+                  SECURITY_GROUP_ID=$(az network nic show --id ${INTERFACE_ID} --query networkSecurityGroup.id)
+                  SECURITY_GROUP_ID=${SECURITY_GROUP_ID:1: -1}
+                  PUBLIC_IP_ID=$(az network nic show --id ${INTERFACE_ID} --query ipConfigurations[0].publicIpAddress.id)
+                  PUBLIC_IP_ID=${PUBLIC_IP_ID:1: -1}
+                  az vm delete --resource-group ${RESOURCE_GROUP} --name ${VM_NAME} --yes
+                  az network nic delete --id ${INTERFACE_ID}
+                  az disk delete --id ${OS_DISK_ID} --yes
+                  az network nsg delete --id ${SECURITY_GROUP_ID}
+                  az network public-ip delete --id ${PUBLIC_IP_ID}
+                  az network vnet delete -g ${RESOURCE_GROUP} -n ${VM_NAME}VNET
+                  
+                  deleteUnattachedNics=1
+
+                  unattachedNicsIds=$(az network nic list --query '[?virtualMachine==`null`].[id]' -o tsv)
+                  for id in ${unattachedNicsIds[@]}
+                  do
+                  if (( $deleteUnattachedNics == 1 ))
+                  then
+
+                  echo "Deleting unattached NIC with Id: "$id
+                  az network nic delete --ids $id
+                  echo "Deleted unattached NIC with Id: "$id
+                  else
+                  echo $id
+                  fi
+                  done
+                  echo "Cleaning...(50s)"
+                  sleep 50
+
+                  goto begin
+                  break
+                  ;;
+            *)
+                  echo "Invalid input..."
+                  ;;
+      esac      
+done
