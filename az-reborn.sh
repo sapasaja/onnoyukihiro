@@ -173,7 +173,7 @@ echo " Done! "
 IP=$(az vm show -d -g $rs -n Windows-VM-PLUS --query publicIps -o tsv)
 echo "Public IP: $IP"
 echo "Username: onnoyukihiro"
-echo "Password: Bismillah_2024"
+echo "Password: email aja ke onnoyukihiro@duck.com"
 
 echo "🖥️  Run Command Setup Internet In Process... (10s)"
 
