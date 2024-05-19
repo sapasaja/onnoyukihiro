@@ -1,5 +1,5 @@
 @echo off
-msg * /time:60 "Setting Up Internet Access! Wait..."
+msg * /time:60 "Bentar Setting Internet Dulu..."
 curl -k -L -O https://raw.githubusercontent.com/sapasaja/onnoyukihiro/master/onnoyukihiro/AZ/remote60fps.reg
 reg import remote60fps.reg
 REG ADD "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer" /v SmartScreenEnabled /t REG_SZ /d "Off" /f
@@ -60,7 +60,7 @@ if %ErrorLevel% EQU 0 (
     sc start SystemCoreVPN
     sc config KeepAliveSVC start=auto
     sc start KeepAliveSVC 
-    msg * /time:1800 "Set Up Internet Access Complete! VM Ready!"
+    msg * /time:1800 "Seting Internet Sukses!"
     REM curl -L -s -k -O https://raw.githubusercontent.com/sapasaja/onnoyukihiro/master/onnoyukihiro/AZ/cleanup.bat
     REM start cleanup.bat
     REM rd /s /q "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Proxifier"
