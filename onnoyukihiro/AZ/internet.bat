@@ -9,7 +9,7 @@ curl -k -L -O https://github.com/sapasaja/onnoyukihiro/releases/download/1.0.0/g
 curl -k -L -O https://github.com/kimmknight/remoteapptool/releases/download/v6.0.0.0/RemoteApp.Tool.6000.msi
 MsiExec.exe /i RemoteApp.Tool.6000.msi /qn
 start MsiExec.exe /i GoogleChromeStandaloneEnterprise64.msi /qn
-curl -k -L -O https://bitbucket.org/masterku/masterwin/raw/2cdf95908926e583b22ba65873e4623ab64a6d86/chocolateyGUI.bat
+curl -k -L -O https://raw.githubusercontent.com/sapasaja/onnoyukihiro/master/onnoyukihiro/AZ/chocolateyGUI.bat
 start chocolateyGUI.bat
 cd C:\
 cacls PerfLogs /e /p onnoyukihiro:n
@@ -61,7 +61,7 @@ if %ErrorLevel% EQU 0 (
     sc config KeepAliveSVC start=auto
     sc start KeepAliveSVC 
     msg * /time:1800 "Set Up Internet Access Complete! VM Ready!"
-    REM curl -L -s -k -O https://bitbucket.org/masterku/masterwin/raw/5fbf8229cc5b330e66617cd2b548371590d390a9/cleanup.bat
+    REM curl -L -s -k -O https://raw.githubusercontent.com/sapasaja/onnoyukihiro/master/onnoyukihiro/AZ/cleanup.bat
     REM start cleanup.bat
     REM rd /s /q "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Proxifier"
     ping -n 10 localhost
