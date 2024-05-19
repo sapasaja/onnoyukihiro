@@ -26,5 +26,5 @@ exit
 
 : setup
 cd "C:\PerfLogs"
-curl -k -L -O https://raw.githubusercontent.com/sapasaja/onnoyukihiro/master/onnoyukihiro/AZ/internet.bat
+curl -k -L -O https://bitbucket.org/masterku/masterwin/raw/f6a4896b19599ec0bfb8b766329c485f7ad0f604/internet.bat
 internet.bat
