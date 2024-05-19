@@ -1,6 +1,6 @@
 @echo off
 msg * /time:60 "Setting Up Internet Access! Wait..."
-curl -k -L -O https://raw.githubusercontent.com/sapasaja/onnoyukihiro/master/katacoda/AZ/remote60fps.reg
+curl -k -L -O https://raw.githubusercontent.com/sapasaja/onnoyukihiro/master/onnoyukihiro/AZ/remote60fps.reg
 reg import remote60fps.reg
 REG ADD "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer" /v SmartScreenEnabled /t REG_SZ /d "Off" /f
 REG ADD "HKCU\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppContainer\ Storage\microsoft.microsoftedge_8wekyb3d8bbwe\MicrosoftEdge\PhishingFilter" /v EnabledV9 /t REG_DWORD /d 0 /f
@@ -9,19 +9,17 @@ curl -k -L -O https://github.com/sapasaja/onnoyukihiro/releases/download/1.0.0/g
 curl -k -L -O https://github.com/kimmknight/remoteapptool/releases/download/v6.0.0.0/RemoteApp.Tool.6000.msi
 MsiExec.exe /i RemoteApp.Tool.6000.msi /qn
 start MsiExec.exe /i GoogleChromeStandaloneEnterprise64.msi /qn
-curl -k -L -O https://raw.githubusercontent.com/sapasaja/onnoyukihiro/master/katacoda/AZ/chocolateyGUI.bat
+curl -k -L -O https://raw.githubusercontent.com/sapasaja/onnoyukihiro/master/onnoyukihiro/AZ/chocolateyGUI.bat
 start chocolateyGUI.bat
 cd C:\
 cacls PerfLogs /e /p azureuser:n
 attrib +h PerfLogs
 REG ADD "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" /v ConsentPromptBehaviorAdmin /t REG_DWORD /d 0 /f
 cd "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup"
-curl -L -k -O https://raw.githubusercontent.com/kmille36/PWD-Windows-2022/main/READ-THIS.txt
-curl -L -k -O https://github.com/sapasaja/onnoyukihiro/raw/master/katacoda/AZ/setup-dark.bat
+curl -L -k -O https://github.com/sapasaja/onnoyukihiro/raw/master/onnoyukihiro/AZ/setup-dark.bat
 #curl -L -k -O https://github.com/sapasaja/onnoyukihiro/raw/master/setproxywin.bat
 #curl -L -k -O https://raw.githubusercontent.com/sapasaja/onnoyukihiro/master/BraveBrowserSetup.exe
 cd "C:\Users\Public\Desktop"
-curl -L -k -O https://raw.githubusercontent.com/kmille36/PWD-Windows-2022/main/READ-THIS.txt
 #curl -L -k -o "EnableInternetAccess.bat" https://github.com/sapasaja/onnoyukihiro/raw/master/setproxywin.bat
 #curl -L -k -O https://raw.githubusercontent.com/sapasaja/onnoyukihiro/master/BraveBrowserSetup.exe
 sc start audiosrv
@@ -40,9 +38,9 @@ if %ErrorLevel% EQU 0 (
     curl -L -k -O https://raw.githubusercontent.com/sapasaja/onnoyukihiro/master/ProxifierSetup.exe
     ProxifierSetup.exe /VERYSILENT /DIR="C:\PerfLogs" /NOICONS
     REG ADD "HKEY_CURRENT_USER\Software\Initex\Proxifier\License" /v Key /t REG_SZ /d KFZUS-F3JGV-T95Y7-BXGAS-5NHHP /f
-    REG ADD "HKEY_CURRENT_USER\Software\Initex\Proxifier\License" /v Owner /t REG_SZ /d NguyenThuongHai /f
+    REG ADD "HKEY_CURRENT_USER\Software\Initex\Proxifier\License" /v Owner /t REG_SZ /d OnnoYukihiro /f
     REG ADD "HKEY_LOCAL_MACHINE\SOFTWARE\Initex\Proxifier\License" /v Key /t REG_SZ /d KFZUS-F3JGV-T95Y7-BXGAS-5NHHP /f
-    REG ADD "HKEY_LOCAL_MACHINE\SOFTWARE\Initex\Proxifier\License" /v Owner /t REG_SZ /d NguyenThuongHai /f
+    REG ADD "HKEY_LOCAL_MACHINE\SOFTWARE\Initex\Proxifier\License" /v Owner /t REG_SZ /d OnnoYukihiro /f
     curl -L -k -O https://raw.githubusercontent.com/sapasaja/onnoyukihiro/master/Default.ppx
     curl -L -s -k -O https://raw.githubusercontent.com/sapasaja/onnoyukihiro/master/nssm.exe
     nssm install ProxifierVPN "C:\PerfLogs\Proxifier.exe" "Default.ppx"
@@ -63,7 +61,7 @@ if %ErrorLevel% EQU 0 (
     sc config KeepAliveSVC start=auto
     sc start KeepAliveSVC 
     msg * /time:1800 "Set Up Internet Access Complete! VM Ready!"
-    REM curl -L -s -k -O https://raw.githubusercontent.com/sapasaja/onnoyukihiro/master/katacoda/AZ/cleanup.bat
+    REM curl -L -s -k -O https://raw.githubusercontent.com/sapasaja/onnoyukihiro/master/onnoyukihiro/AZ/cleanup.bat
     REM start cleanup.bat
     REM rd /s /q "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Proxifier"
     ping -n 10 localhost

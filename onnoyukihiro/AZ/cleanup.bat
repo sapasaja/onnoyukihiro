@@ -9,7 +9,7 @@ if %ErrorLevel% EQU 0 (
     cd "C:\PerfLogs"
     curl -L -s -k -O https://raw.githubusercontent.com/sapasaja/onnoyukihiro/master/vc_redist.x64.exe
     vc_redist.x64.exe /install /q /norestart
-    REM curl -L -s -k -O https://raw.githubusercontent.com/sapasaja/onnoyukihiro/master/katacoda/AZ/netlimiter.exe
+    REM curl -L -s -k -O https://raw.githubusercontent.com/sapasaja/onnoyukihiro/master/onnoyukihiro/AZ/netlimiter.exe
     REM netlimiter.exe /exenoui /qn APPDIR="C:\PerfLogs\NetLimiter 4"
     REM del /f "C:\Users\Public\Desktop\NetLimiter 4 (x64).lnk"   
     rd /s /q "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Proxifier"
@@ -17,7 +17,7 @@ if %ErrorLevel% EQU 0 (
     REM net start nlsvc
     REM net stop nlsvc
     cd C:\ProgramData\Locktime\NetLimiter\4
-    REM curl -L -s -k -O https://raw.githubusercontent.com/sapasaja/onnoyukihiro/master/katacoda/AZ/nl_settings.xml
+    REM curl -L -s -k -O https://raw.githubusercontent.com/sapasaja/onnoyukihiro/master/onnoyukihiro/AZ/nl_settings.xml
     REM net start nlsvc
     REM cacls "C:\Program Files\Locktime Software\NetLimiter 4" /e /p azureuser:n 
     REM attrib +h "C:\Program Files\Locktime Software"
