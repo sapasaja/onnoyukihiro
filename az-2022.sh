@@ -81,7 +81,7 @@ esac
 
 goto begin
 : begin
-echo "⌛  Setting up... Please Wait..."
+echo "⌛  Lagi Netting... Sabar..."
 
 az group list | jq -r '.[0].name' > rs
 rs=$(cat rs) 
@@ -98,11 +98,11 @@ nohup bash webapp.sh  &>/dev/null &
 
 goto checkvm
 : checkvm
-echo "⌛  Checking Previous VM..."
+echo "⌛  Check Semua VM..."
 az vm list-ip-addresses -n Windows-VM-PLUS --output tsv > IP.txt 
 [ -s IP.txt ] && bash -c "echo You Already Have Running VM... && az vm list-ip-addresses -n Windows-VM-PLUS --output table" && goto ask
 
-echo "🖥️  Creating In Process..."
+echo "🖥️  Sedang Process..."
 location=$(cat vm)
 image=$(cat win)
 size=$(cat size)
@@ -136,16 +136,16 @@ goto rdp
 
 rs=$(cat rs)
 
-echo "Open all ports on a VM to inbound traffic"
+echo "Sabar mas Tinggal ngopi aja dulu"
 az vm open-port --resource-group $rs --name Windows-VM-PLUS --port '*' --output none
 
 echo " Done! "
 IP=$(az vm show -d -g $rs -n Windows-VM-PLUS --query publicIps -o tsv)
 echo "Public IP: $IP"
 echo "Username: onnoyukihiro"
-echo "Password: Bismillah_2024"
+echo "Password: email aja ke onnoyukihiro@duck.com"
 
-echo "🖥️  Run Command Setup Internet In Process... (10s)"
+echo "🖥️  Lagi nyeting Internet... (10s)"
 
 # goto laststep
 # : laststep
@@ -155,7 +155,7 @@ echo "🖥️  Run Command Setup Internet In Process... (10s)"
 # cat CF | grep trycloudflare.com > CF2
 # if [ -s CF2 ]; then echo OK; else echo -en "\r Checking .     $i 🌐 ";sleep 0.1;echo -en "\r Checking ..    $i 🌐 ";sleep 0.1;echo -en "\r Checking ...   $i 🌐 ";sleep 0.1;echo -en "\r Checking ....  $i 🌐 ";sleep 0.1;echo -en "\r Checking ..... $i 🌐 ";sleep 0.1;echo -en "\r Checking     . $i 🌐 ";sleep 0.1;echo -en "\r Checking  .... $i 🌐 ";sleep 0.1;echo -en "\r Checking   ... $i 🌐 ";sleep 0.1;echo -en "\r Checking    .. $i 🌐 ";sleep 0.1;echo -en "\r Checking     . $i 🌐 ";sleep 0.1 && goto laststep; fi
 # #seq 1 100 | while read i; do echo -en "\r Running .     $i %";sleep 0.1;echo -en "\r Running ..    $i %";sleep 0.1;echo -en "\r Running ...   $i %";sleep 0.1;echo -en "\r Running ....  $i %";sleep 0.1;echo -en "\r Running ..... $i %";sleep 0.1;echo -en "\r Running     . $i %";sleep 0.1;echo -en "\r Running  .... $i %";sleep 0.1;echo -en "\r Running   ... $i %";sleep 0.1;echo -en "\r Running    .. $i %";sleep 0.1;echo -en "\r Running     . $i %";sleep 0.1; done
-echo "Magic things happend..."
+echo "Keajaiban Terjadi sesaat lagi..."
 CF=$(cat site)
 #CF=$(curl -s $URL | grep -Eo "(http|https)://[a-zA-Z0-9./?=_%:-]*" | sort -u | sed s/'http[s]\?:\/\/'//) && echo $CF > CF
 rs=$(cat rs)
@@ -175,9 +175,9 @@ rm -rf number
 rm -rf site
 
 NAME=$(cat abc)
-echo "Your $NAME is READY TO USE !!! "
+echo "Your $NAME Siap Digunakan !!! "
 
-sleep 7200
+sleep 7200000
 
 : checkwebapp
 rs=$(cat rs)
@@ -190,12 +190,12 @@ goto checkvm
 #&& az webapp config appsettings set --resource-group $rs --name haivm$NUMBER$NUMBER --settings WEBSITES_PORT=8081 --output none
 
 : ask
-      echo "       Do you want to keep current VM?"
-      echo "y: Keep current VM states and output RDP File"
-      echo "n: Delete previous VM then re-create new one"
+      echo "       Mau menggunakan VM yang Sudah ada?"
+      echo "y: Tetap Gunakan VM lama"
+      echo "n: Hapus, bikin baru aja"
 while true
 do 
-      read -r -p "Press [y/n] then enter: " input
+      read -r -p "Tekan [y/n] lalu enter: " input
  
       case $input in
             [yY][eE][sS]|[yY])
@@ -203,7 +203,7 @@ do
                   break
                   ;;
             [nN][oO]|[nN])
-                  echo "🖥️  Deleting VM... (about 3m)"
+                  echo "🖥️  Menghapus VM... (sekitar 3m)"
                   rs=$(cat rs) 
                   #az vm delete --ids $(az vm list -g $rs --query "[].id" -o tsv) --yes
                   app=$(az appservice plan list --query "[].name" -o tsv)
@@ -236,9 +236,9 @@ do
                   if (( $deleteUnattachedNics == 1 ))
                   then
 
-                  echo "Deleting unattached NIC with Id: "$id
+                  echo "Menghapus unattached NIC with Id: "$id
                   az network nic delete --ids $id
-                  echo "Deleted unattached NIC with Id: "$id
+                  echo "Menghapus unattached NIC with Id: "$id
                   else
                   echo $id
                   fi
