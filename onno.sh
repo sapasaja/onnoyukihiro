@@ -30,7 +30,7 @@ docker run --rm \
   --cap-add SYS_BOOT --cap-add SYS_ADMIN \
   -v /sys/fs/cgroup:/sys/fs/cgroup \
   -e PASSWORD=123654 \
-  -p 6080:6080 moyash/novnc-ros-desktop:melodic &
+  -p 6080:6080 moyash/novnc-ros-desktop:melodic
 
 # Simpan PID dari proses Docker
 DOCKER_PID=$!
